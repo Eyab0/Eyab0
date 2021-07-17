@@ -6,7 +6,7 @@
 
 
 - 👋 Hi, I’m @Eyab0
-- 👀 I’m interested in AI & ML
+- 👀 I’m interested in AI & ML Fields and competitive programming
 - 💻 I’m currently learning full-stack web development
 - 🎓 I am currently studying @ Birzeit University
 - 📫 How to reach me eyab.m.g@gmail.com
