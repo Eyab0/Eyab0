@@ -31,9 +31,8 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h2 align="center">Visitors</h2>
-<p align="center">
-  ![visitor](https://profile-counter.glitch.me/eyab0/count.svg) 
-</p>
+  ![visitor align="center" ](https://profile-counter.glitch.me/eyab0/count.svg) 
+
 <br /><br />
 
 <p align="center">
