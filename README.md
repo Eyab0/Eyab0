@@ -31,8 +31,9 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <h2 align="center">Visitors</h2>
-  ![visitor align="center" ](https://profile-counter.glitch.me/eyab0/count.svg) 
-
+<div style='float: center'>
+  ![visitor](https://profile-counter.glitch.me/eyab0/count.svg) 
+</div>
 <br /><br />
 
 <p align="center">
