@@ -5,15 +5,15 @@
 
 
 
+ 
+<h1>About Me 📌</h1>
 
+- 👋 Hi, I’m Eyab Ghafre
+- 👨‍💻 I’m Interested in AI & ML Fields and Competitive Programming
+- 💻 I’m Currently Learning Full-Stack Web Development
+- 🎓 Computer Engineer Student @ Birzeit University
+- 📫 How to Reach Me eyab.m.g@gmail.com
 
-<h2>
-- 👋 Hi, I’m Eyab
-- 👀 I’m interested in AI & ML Fields and competitive programming
-- 💻 I’m currently learning full-stack web development
-- 🎓 I am currently studying @ Birzeit University
-- 📫 How to reach me eyab.m.g@gmail.com
-</h2>
 
 <!---
 Eyab0/Eyab0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
