@@ -46,6 +46,8 @@ You can click the Preview link to take a look at your changes.
   <a href = "https://bit.ly/2UqT6Kt"><img src = "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height = 30></a>
  
 </p>
-
+<br />
+<h6 align="center" ><i>⚡If You Take The Design Please Star The Repo ⭐</i></h6>
+<br />
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
