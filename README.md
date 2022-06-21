@@ -8,7 +8,7 @@
  
 <h1>About Me 📌</h1>
 
-- 👋 Hi, I’m Eyab Ghafre
+- 👋 Hi, I’m Eyab Ghifari
 - 👨‍💻 I’m Interested in AI & ML Fields and Competitive Programming
 - 💻 I’m Currently Learning Full-Stack Web Development
 - 🎓 Computer Engineer Student @ Birzeit University
