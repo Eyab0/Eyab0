@@ -10,8 +10,8 @@
 
 - 👋 Hi, I’m Eyab Ghifari
 - 👨‍💻 I’m Interested in AI & ML Fields and Competitive Programming
-- 💻 I’m Currently Learning Full-Stack Web Development
-- 🎓 Computer Engineer Student @ Birzeit University
+- 💻 I’m Currently Backend Engineer @ EXALT
+- 🎓 Computer Engineering  Student @ Birzeit University
 - 📫 How to Reach Me eyab.m.g@gmail.com
 
 
