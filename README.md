@@ -9,8 +9,7 @@
 <h1>About Me 📌</h1>
 
 - 👋 Hi, I’m Eyab Ghifari
-- 👨‍💻 I’m Interested in AI & ML Fields and Competitive Programming
-- 💻 I’m Currently Backend Engineer @ EXALT
+- 👨‍💻 I’m Interested in AI & ML Fields and Competitive Programming 
 - 🎓 Computer Engineering  Student @ Birzeit University
 - 📫 How to Reach Me eyab.m.g@gmail.com
 
